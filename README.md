@@ -7,7 +7,7 @@ Easily manage, analyze, and organize your course catalog with a powerful and int
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed link here)*
+👉 https://adarsh07a-courses-dashboard-api-app-qw80vo.streamlit.app/
 
 ---
 
